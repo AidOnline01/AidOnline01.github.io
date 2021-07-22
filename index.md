@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Link](https://github.com/AidOnline01/test/changes.md)
+[Changes](https://aidonline01.github.io/changes.md)
 
 You can use the [editor on GitHub](https://github.com/AidOnline01/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
